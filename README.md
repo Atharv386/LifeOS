@@ -46,9 +46,8 @@ To run this showcase locally:
 
 2. **Install dependencies:**
    ```bash
-   npm install --legacy-peer-deps
+   npm install
    ```
-   *(Note: `--legacy-peer-deps` is used to handle React 19 RC dependencies on older Lucide modules).*
 
 3. **Start the development server:**
    ```bash
